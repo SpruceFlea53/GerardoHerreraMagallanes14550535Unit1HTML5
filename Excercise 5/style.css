@@ -1,0 +1,51 @@
+#main{
+	width: 1000px;
+	height: 600px;
+	margin: auto;
+	border-left-style: solid;
+	border-left-color: lightgray;
+	border-bottom-style:solid;
+	border-bottom-color:lightgray;
+	border-right-style:solid;
+	border-right-color:lightgray;
+
+}
+
+header{
+	font-family: sans-serif, Arial;
+	background-color: yellow;
+	text-align: center;
+	
+}
+
+h2{
+	font-family: Tahoma;
+}
+
+#h3{
+	border-style: dotted;
+	border-color: green;
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	font-size: 0.8em;
+	right: 200px;
+	top:100px;
+}
+
+#h2{
+	top: 100px;
+	right: 600px;
+	position: absolute;
+	border-left-style: solid;
+	border-left-color:  green;
+}
+
+footer{
+	font-style: Impact;
+	position: absolute;
+	top:600px; 
+	right: 500px;
+	text-align: center;
+
+}

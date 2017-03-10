@@ -1,0 +1,33 @@
+#main{
+	column-count: 2;
+	column-rule-style: solid;
+	column-rule-color: black;
+	width: 500px;
+	margin: auto;
+	border-color: black;
+	border-style: solid;
+}
+
+header{
+	text-transform: uppercase;
+	font-family: Verdana, sans-serif;
+	color: blue;
+	background-color: lightgray;
+	text-align: center;
+}
+
+h2{
+	text-transform: uppercase;
+	color: #760001;
+	font-family: Arial;
+}
+
+#p{
+	text-align: center;
+	font-family: bold;
+}
+
+#p2{
+	text-align: center;
+	font-family: Verdana;
+}

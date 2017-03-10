@@ -1,0 +1,51 @@
+#main{
+     width: 500px;
+     height: 715px;
+     margin: auto;
+     border-style: solid;
+     border-color: blue;
+      
+}
+
+header{
+	display: inline-block;
+}
+
+#logo{
+	display: inline-block;
+    margin-bottom: 0px;
+}
+
+section{
+	column-count: 2;
+	column-rule-style: solid;
+	column-rule-color: blue;
+	column-gap:10px;
+	text-align: justify;
+	position: relative;
+}
+
+nav{
+	text-align: center;
+	font-family: Georgia;
+	padding-bottom: 3px;
+}
+
+footer{
+	text-align: center;
+}
+
+h1{
+	font-family: arial;
+	color: #1E90FF;
+}
+
+h2{
+	font-family: verdana;
+	color: #1E90FF;
+}
+
+h3{
+	font-family: bold;
+	color: #4169E1;
+}
